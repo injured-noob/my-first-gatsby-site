@@ -2,8 +2,9 @@
     margin: auto;
     max-width: 500px;
     font-family: sans-serif;
+    color: rgb(102,51,153);
   }
-  
+
   .heading {
     color: rebeccapurple;
   }
@@ -16,12 +17,12 @@
     padding-right: 2rem;
   }
   .nav-link-text {
-    color: black;
+    color: blue;
   }
   /* ... your existing styles */
 
 .site-title {
     font-size: 3rem;
-    color: gray;
+    color: rgb(102,51,153);
     font-weight: 700;
   }
